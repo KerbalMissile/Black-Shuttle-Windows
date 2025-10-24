@@ -2,6 +2,6 @@ Adds black windows to the SOCK (Shuttle Orbiter Construction Kit) shuttle, and t
 
 To use simply merge the GameData folders and you're good to go!
 
-!!If there are any bugs report them over at the GitHub!!
+!!If there are any bugs report them here at the GitHub!!
 
 !!THE FILE IN THE MOD IS APPLIED TO BOTH BURAN AND THE SPACE SHUTTLE THERE IS NO WAY TO CHANGE THIS!! -> May be incorrect now.
